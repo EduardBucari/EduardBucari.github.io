@@ -67,7 +67,7 @@ section {
   width: 100%;
   height: 100vh;
 
-  /* Scroll Snap фтв*/
+  /* Scroll Snap */
   scroll-snap-align: center;
 }
 
